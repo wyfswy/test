@@ -1,5 +1,5 @@
 ## 忽略test.css 文件
-# test.css
+test.css
 # 忽略所有以 .test 结尾的文件
 *.test
 # 忽略 node_modules 文件和文件夹
